@@ -1,0 +1,101 @@
+sample_id,property_id,City,Property Type,Count Reviews,Review Score,Price(Avg),Cancellation,Premier Host,Listed Prior to Booking
+1,1794369,"Redding, California",Apartment,105,10,63,Moderate,1,0
+2,665270,"Redding, California",Apartment,134,9.8,136,Moderate,1,0
+3,2800870,"Redding, California",Entire Home,38,9.8,74,Relaxed,0,1
+4,3312174,"Redding, California",Entire Home,27,10,238,Relaxed,0,0
+5,640812,"Redding, California",Entire Home,73,9.6,214,Relaxed,1,0
+6,4235511,"Redding, California",Entire Home,0,0,270,Relaxed,0,0
+7,4089971,"Redding, California",Entire Home,3,10,257,Relaxed,0,1
+8,3223681,"Redding, California",Entire Home,19,10,82,Relaxed,1,1
+9,3449663,"Redding, California",Entire Home,11,10,150,Relaxed,1,0
+10,2499507,"Redding, California",Entire Home,13,10,153,Relaxed,1,1
+11,20083019,"Chico, California",Entire Home,0,0,147,Relaxed,0,1
+12,452366,"Chico, California",Entire Home,161,10,169,Moderate,1,1
+13,3340916,"Chico, California",Apartment,16,10,136,Moderate,0,1
+14,2624922,"Chico, California",Entire Home,26,9,192,Moderate,0,1
+15,3386067,"Chico, California",Entire Home,3,9.4,91,Relaxed,1,1
+16,1815674,"Chico, California",Entire Home,67,9.6,152,Moderate,1,1
+17,3925583,"Chico, California",Apartment,1,2,98,Partial Refund,0,1
+18,4309501,"Chico, California",Apartment,0,0,242,Relaxed,0,1
+19,3331523,"Chico, California",Apartment,12,10,161,Moderate,1,1
+20,9785180,"Chico, California",Entire Home,14,10,190,Relaxed,0,1
+21,4320332,"Eureka, California",Entire Home,0,0,274,Relaxed,0,1
+22,2116879,"Eureka, California",Apartment,71,10,164,Relaxed,1,1
+23,2720766,"Eureka, California",Entire Home,65,10,177,Moderate,1,1
+24,2706967,"Eureka, California",Apartment,33,10,111,Relaxed,1,1
+25,1864374,"Eureka, California",Apartment,90,9.8,183,Relaxed,1,1
+26,4200481,"Eureka, California",Entire Home,0,0,425,Moderate,1,1
+27,3582786,"Eureka, California",Entire Home,24,9.4,209,Relaxed,1,1
+28,2572311,"Eureka, California",Entire Home,13,9.8,238,Relaxed,1,1
+29,2966419,"Eureka, California",Entire Home,80,9.8,172,Relaxed,1,1
+30,2823156,"Eureka, California",Entire Home,16,10,168,Moderate,0,1
+31,1535663,San Francisco,Entire Home,122,10,299,Non-Refundable,1,1
+32,3181317,San Francisco,Apartment,43,10,249,Moderate,1,1
+33,159988,San Francisco,Entire Home,381,9,213,Moderate,1,1
+34,732692,San Francisco,Entire Home,79,9,254,Moderate,0,1
+35,4156694,San Francisco,Apartment,153,10,228,Relaxed,0,1
+36,3370673,San Francisco,Apartment,19,10,211,Moderate,0,1
+37,574068,San Francisco,Apartment,260,10,281,Partial Refund,1,1
+38,3883672,San Francisco,Entire Home,5,8,144,Relaxed,0,1
+39,1861252,San Francisco,Entire Home,31,9.4,140,Relaxed,0,1
+40,1932771,San Francisco,Entire Home,30,9.6,168,Moderate,1,1
+41,3499468,"San Jose, California",Entire Home,0,0,429,Non-Refundable,0,1
+42,2639876,"San Jose, California",Entire Home,56,9.4,155,Relaxed,0,1
+43,1876328,"San Jose, California",Apartment,44,10,178,Relaxed,1,1
+44,3255445,"San Jose, California",Apartment,1,10,134,Relaxed,0,1
+45,4234007,"San Jose, California",Entire Home,0,0,357,Moderate,0,1
+46,3245539,"San Jose, California",Entire Home,8,8.4,160,Relaxed,0,1
+47,4967177,"San Jose, California",Studio,28,9.6,154,Relaxed,0,0
+48,1296897,"San Jose, California",Condo,133,10,234,Relaxed,1,1
+49,3177270,"San Jose, California",Entire Home,10,10,135,Relaxed,0,1
+50,1961399,"San Jose, California",Apartment,37,9,205,Relaxed,0,1
+51,3222782,"Monterey, California",Entire Home,37,9.6,696,Moderate,1,1
+52,310297,"Monterey, California",Apartment,471,10,338,Non-Refundable,1,1
+53,3167772,"Monterey, California",Entire Home,68,9.6,369,Relaxed,1,1
+54,4238323,"Monterey, California",Apartment,0,0,444,Relaxed,0,1
+55,2746602,"Monterey, California",Apartment,48,9.8,331,Moderate,1,1
+56,197121,"Monterey, California",Apartment,288,9.8,532,Moderate,1,1
+57,1055638,"Monterey, California",Entire Home,129,9.8,600,Moderate,1,1
+58,833829,"Monterey, California",Entire Home,287,9.8,511,Relaxed,1,1
+59,9964986,"Monterey, California",Entire Home,1,8,378,Relaxed,0,1
+60,4147683,"Monterey, California",Entire Home,3,10,427,Moderate,0,1
+61,2965416,Los Angeles,Entire Home,5,9.6,416,Moderate,0,1
+62,2197460,Los Angeles,Entire Home,193,10,109,Relaxed,1,0
+63,2410178,Los Angeles,Apartment,150,10,157,Relaxed,1,1
+64,9893146,Los Angeles,Apartment,9,10,166,Relaxed,1,1
+65,3409123,Los Angeles,Apartment,16,10,266,Relaxed,1,1
+66,4502515,Los Angeles,Entire Home,65,9.2,371,Relaxed,1,1
+67,9426202,Los Angeles,Entire Home,98,9.6,213,Relaxed,1,0
+68,3139556,Los Angeles,Entire Home,39,9.8,206,Relaxed,1,1
+69,3331152,Los Angeles,Entire Home,23,9,181,Relaxed,1,1
+70,3427017,Los Angeles,Condo,7,10,276,Moderate,0,1
+71,3905012,San Diego,Entire Home,1,10,356,Moderate,1,1
+72,2006891,San Diego,Entire Home,102,9.8,135,Relaxed,1,1
+73,1179076,San Diego,Entire Home,186,10,245,Moderate,1,1
+74,2275112,San Diego,Entire Home,45,10,214,Partial Refund,1,1
+75,3589198,San Diego,Entire Home,19,10,156,Relaxed,0,0
+76,7532040,San Diego,Apartment,133,9.4,189,Moderate,1,1
+77,1363808,San Diego,Entire Home,158,10,199,Moderate,1,0
+78,2309844,San Diego,Apartment,22,9.8,233,Moderate,1,1
+79,9405625,San Diego,Entire Home,59,8.8,156,Relaxed,0,1
+80,385631,San Diego,Entire Home,65,9.8,201,Relaxed,1,1
+81,4298697,"Santa Barbara, California",Entire Home,1,10,350,Relaxed,0,1
+82,3799689,"Santa Barbara, California",Entire Home,351,10,419,Moderate,1,1
+83,1429893,"Santa Barbara, California",Apartment,196,10,255,Relaxed,1,1
+84,2792599,"Santa Barbara, California",Entire Home,25,9.2,244,Relaxed,1,1
+85,2336735,"Santa Barbara, California",Apartment,37,9.8,335,Relaxed,1,1
+86,4141980,"Santa Barbara, California",Entire Home,0,0,1252,Partial Refund,1,1
+87,268273,"Santa Barbara, California",Entire Home,290,10,276,Relaxed,1,1
+88,2474220,"Santa Barbara, California",Apartment,14,9.4,252,Non-Refundable,1,1
+89,3367807,"Santa Barbara, California",Entire Home,16,9.8,268,Non-Refundable,0,1
+90,2585690,"Santa Barbara, California",Entire Home,66,10,407,Relaxed,1,1
+91,3598583,"Palm Springs, California",Entire Home,1,10,694,Moderate,0,1
+92,2979688,"Palm Springs, California",Entire Home,33,10,278,Relaxed,1,1
+93,4079173,"Palm Springs, California",Entire Home,192,10,365,Moderate,1,1
+94,2507991,"Palm Springs, California",Apartment,20,9.2,192,Relaxed,1,1
+95,4227870,"Palm Springs, California",Entire Home,0,0,526,Partial Refund,1,1
+96,1222815,"Palm Springs, California",Entire Home,45,10,270,Moderate,1,1
+97,597806,"Palm Springs, California",Cabin,261,10,336,Relaxed,1,1
+98,3645089,"Palm Springs, California",Apartment,1,10,217,Relaxed,0,1
+99,1511896,"Palm Springs, California",Entire Home,55,9.8,287,Partial Refund,0,1
+100,1252355,"Palm Springs, California",Cabin,113,10,364,Relaxed,1,1

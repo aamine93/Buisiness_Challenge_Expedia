@@ -1,0 +1,101 @@
+sample_id,property_id,City,Property Type,Count Reviews,Review Score,Price,Listed Prior to Booking,Cancellation Options,Price Difference
+1,prop_0001,"Redding, California",Hotel,1004,7.6,211,1,2,1
+2,prop_0002,"Redding, California",Hotel,1004,9,331,1,3,1
+3,prop_0003,"Redding, California",Hotel,976,9,648,1,2,0
+4,prop_0004,"Redding, California",Hotel,1694,9,325,1,1,0
+5,prop_0005,"Redding, California",Hotel,1635,9.6,372,1,1,0
+6,prop_0006,"Redding, California",Hotel,976,9,648,1,2,0
+7,prop_0007,"Redding, California",Casino,1008,8.4,284,1,1,0
+8,prop_0008,"Redding, California",Hotel,2277,7.2,213,1,1,0
+9,prop_0009,"Redding, California",Hotel,1015,7.8,201,1,2,1
+10,prop_0010,"Redding, California",Home,0,0,537,1,1,0
+11,prop_0011,"Chico, California",Hotel,1006,8,240,0,0,0
+12,prop_0012,"Chico, California",Hotel,1233,9.4,299,1,1,0
+13,prop_0013,"Chico, California",Hotel,1007,8.6,246,0,0,0
+14,prop_0014,"Chico, California",Hotel,439,9.4,300,1,2,1
+15,prop_0015,"Chico, California",Hotel,376,9.4,322,1,4,1
+16,prop_0016,"Chico, California",Hotel,679,8.6,303,1,2,1
+17,prop_0017,"Chico, California",Hotel,1007,8.8,208,1,2,1
+18,prop_0018,"Chico, California",Hotel,841,9.4,475,1,1,0
+19,prop_0019,"Chico, California",Hotel,245,9,370,1,2,1
+20,prop_0020,"Chico, California",Hotel,1006,8,240,1,2,1
+21,prop_0021,"Eureka, California",Hotel,1002,7.8,253,1,2,1
+22,prop_0022,"Eureka, California",Hotel,820,9.2,463,1,1,0
+23,prop_0023,"Eureka, California",Hotel,1007,8.8,313,1,2,1
+24,prop_0024,"Eureka, California",Hotel,1005,8.6,267,1,1,0
+25,prop_0025,"Eureka, California",Casino,1006,8.6,272,1,1,0
+26,prop_0026,"Eureka, California",Hotel,1006,9,314,1,1,0
+27,prop_0027,"Eureka, California",Hotel,927,8.4,259,1,2,1
+28,prop_0028,"Eureka, California",Hotel,1004,8.4,284,1,2,1
+29,prop_0029,"Eureka, California",Home,77,9.2,333,1,1,1
+30,prop_0030,"Eureka, California",Home,754,9.2,272,1,1,1
+31,prop_0031,San Francisco,Hotel,498,8.2,370,1,4,1
+32,prop_0032,San Francisco,Hotel,963,9.4,365,1,2,1
+33,prop_0033,San Francisco,Hotel,1008,9,575,1,2,1
+34,prop_0034,San Francisco,Hotel,3358,8.8,344,1,3,1
+35,prop_0035,San Francisco,Hotel,2182,8.8,335,1,1,0
+36,prop_0036,San Francisco,Hotel,2424,9.2,295,1,2,1
+37,prop_0037,San Francisco,Hotel,1042,9.4,283,1,2,1
+38,prop_0038,San Francisco,Hotel,3587,9,278,1,2,1
+39,prop_0039,San Francisco,Hotel,1670,9.4,512,0,0,0
+40,prop_0040,San Francisco,Hotel,446,8.6,221,1,2,1
+41,prop_0041,"San Jose, California",Hotel,1002,9,427,1,2,1
+42,prop_0042,"San Jose, California",Hotel,266,9.4,679,1,2,1
+43,prop_0043,"San Jose, California",Hotel,1011,9.2,471,1,2,1
+44,prop_0044,"San Jose, California",Hotel,1017,8.4,336,1,2,1
+45,prop_0045,"San Jose, California",Hotel,1218,8.6,240,1,2,0
+46,prop_0046,"San Jose, California",Hotel,1007,8,520,1,3,1
+47,prop_0047,"San Jose, California",Hotel,1010,8.6,608,1,1,0
+48,prop_0048,"San Jose, California",Hotel,514,8.8,729,1,3,1
+49,prop_0049,"San Jose, California",Home,0,0,1254,1,1,0
+50,prop_0050,"San Jose, California",Hotel,1008,8.2,495,1,1,0
+51,prop_0051,"Monterey, California",Hotel,1004,9,960,1,2,1
+52,prop_0052,"Monterey, California",Hotel,803,9,671,0,0,0
+53,prop_0053,"Monterey, California",Hotel,1427,9.2,394,1,1,0
+54,prop_0054,"Monterey, California",Hotel,1329,9.4,703,1,2,1
+55,prop_0055,"Monterey, California",Hotel,1010,9.4,600,1,1,0
+56,prop_0056,"Monterey, California",Hotel,1009,9.4,621,1,1,0
+57,prop_0057,"Monterey, California",Hotel,1399,9.2,430,1,1,0
+58,prop_0058,"Monterey, California",Hotel,329,9.4,703,1,2,1
+59,prop_0059,"Monterey, California",Home,0,0,1908,1,1,0
+60,prop_0060,"Monterey, California",Hotel,1063,8,346,1,1,0
+61,prop_0061,Los Angeles,Hotel,470,9.2,409,1,2,1
+62,prop_0062,Los Angeles,Hotel,2479,8.8,514,1,3,1
+63,prop_0063,Los Angeles,Hotel,1007,9,479,1,2,1
+64,prop_0064,Los Angeles,Hotel,252,9.2,968,1,2,1
+65,prop_0065,Los Angeles,Hotel,2758,9.2,333,1,1,0
+66,prop_0066,Los Angeles,Hotel,1005,9.2,771,1,2,1
+67,prop_0067,Los Angeles,Hotel,1398,8.8,788,1,1,0
+68,prop_0068,Los Angeles,Hotel,1474,9.6,656,1,1,0
+69,prop_0069,Los Angeles,Hotel,56,9.4,541,1,2,1
+70,prop_0070,Los Angeles,Hotel,1,10,283,1,1,0
+71,prop_0071,San Diego,Hotel,1206,8.4,439,1,2,1
+72,prop_0072,San Diego,Hotel,2973,9,335,1,2,1
+73,prop_0073,San Diego,Hotel,1002,9.4,651,1,1,0
+74,prop_0074,San Diego,Hotel,482,9.2,834,1,1,0
+75,prop_0075,San Diego,Hotel,1002,8.4,591,1,2,1
+76,prop_0076,San Diego,Hotel,1003,9.2,471,1,1,0
+77,prop_0077,San Diego,Hotel,1109,8.2,593,1,2,1
+78,prop_0078,San Diego,Hotel,467,8.8,417,1,2,1
+79,prop_0079,San Diego,Hotel,767,7.6,204,1,2,1
+80,prop_0080,San Diego,Hotel,341,8.8,461,1,2,1
+81,prop_0081,"Santa Barbara, California",Hotel,1004,8.2,406,1,2,1
+82,prop_0082,"Santa Barbara, California",Hotel,1254,8.2,686,1,1,0
+83,prop_0083,"Santa Barbara, California",Hotel,1212,9.6,528,1,1,0
+84,prop_0084,"Santa Barbara, California",Hotel,1512,9.2,491,1,1,0
+85,prop_0085,"Santa Barbara, California",Home,976,8.2,392,1,1,0
+86,prop_0086,"Santa Barbara, California",Hotel,1004,8.2,406,1,2,1
+87,prop_0087,"Santa Barbara, California",Hotel,1004,9.2,627,1,1,0
+88,prop_0088,"Santa Barbara, California",Hotel,1512,9.2,491,1,1,0
+89,prop_0089,"Santa Barbara, California",Home,0,0,2051,1,1,0
+90,prop_0090,"Santa Barbara, California",Hotel,1445,9.2,401,1,1,0
+91,prop_0091,"Palm Springs, California",Hotel,2875,9,542,1,2,1
+92,prop_0092,"Palm Springs, California",Hotel,2429,8.8,502,1,1,0
+93,prop_0093,"Palm Springs, California",Hotel,1005,8.6,1017,1,4,1
+94,prop_0094,"Palm Springs, California",Hotel,2218,8.6,482,1,3,1
+95,prop_0095,"Palm Springs, California",Hotel,2810,9,464,1,2,1
+96,prop_0096,"Palm Springs, California",Hotel,2429,8.8,502,1,1,0
+97,prop_0097,"Palm Springs, California",Hotel,2485,8,347,1,1,0
+98,prop_0098,"Palm Springs, California",Hotel,247,9,427,1,1,0
+99,prop_0099,"Palm Springs, California",Hotel,2810,9,464,1,2,1
+100,prop_0100,"Palm Springs, California",Home,0,0,9647,1,1,0

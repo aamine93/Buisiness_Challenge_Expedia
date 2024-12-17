@@ -1,0 +1,101 @@
+sample_id,property_id,City,Property Type,Count Reviews,Review Score,Price,Cancellation,SuperHost,Listed Prior to Booking,Amount of Times Listed
+1,prop_0001,"Redding, California",Entire Home,853,4.97,289,Moderate,1,1,3
+2,prop_0002,"Redding, California",Entire Home,426,4.93,205,Moderate,1,1,2
+3,prop_0003,"Redding, California",Entire Home,381,4.91,209,Moderate,1,1,2
+4,prop_0004,"Redding, California",Entire Home,834,4.98,259,Moderate,1,1,2
+5,prop_0005,"Redding, California",Entire Home,421,4.93,170,Moderate,1,1,2
+6,prop_0006,"Redding, California",Entire Home,837,4.97,388,Relaxed,1,1,2
+7,prop_0007,"Redding, California",Entire Home,314,4.89,298,Moderate,1,1,2
+8,prop_0008,"Redding, California",Entire Home,463,4.83,386,Relaxed,1,1,2
+9,prop_0009,"Redding, California",Entire Home,229,5,523,Relaxed,1,1,2
+10,prop_0010,"Redding, California",Entire Home,440,4.89,257,Flexible,1,1,2
+11,prop_0011,"Chico, California",Cottage,382,4.94,291,Moderate,1,1,2
+12,prop_0012,"Chico, California",Entire Home,130,4.99,298,Limited,1,1,2
+13,prop_0013,"Chico, California",Entire Home,242,4.98,171,Strict,1,1,2
+14,prop_0014,"Chico, California",Entire Home,298,4.88,361,Limited,1,1,2
+15,prop_0015,"Chico, California",Entire Home,229,4.95,300,Limited,1,1,2
+16,prop_0016,"Chico, California",Entire Home,127,4.97,256,Moderate,1,1,2
+17,prop_0017,"Chico, California",Entire Home,144,4.94,307,Strict,1,1,2
+18,prop_0018,"Chico, California",Entire Home,73,4.92,275,Strict,1,1,2
+19,prop_0019,"Chico, California",Entire Home,436,4.88,272,Limited,1,1,2
+20,prop_0020,"Chico, California",Entire Home,36,5,234,Moderate,1,1,2
+21,prop_0021,"Eureka, California",Entire Home,317,4.98,289,Moderate,1,1,2
+22,prop_0022,"Eureka, California",Entire Home,62,5,281,Moderate,1,1,2
+23,prop_0023,"Eureka, California",Entire Home,456,4.96,322,Moderate,1,1,2
+24,prop_0024,"Eureka, California",Entire Home,175,4.9,300,Moderate,1,1,2
+25,prop_0025,"Eureka, California",Treehouse,223,4.98,776,Strict,1,1,2
+26,prop_0026,"Eureka, California",Cabin,485,4.96,456,Strict,1,1,2
+27,prop_0027,"Eureka, California",Cabin,176,4.88,414,Moderate,1,1,2
+28,prop_0028,"Eureka, California",Camper,962,4.94,215,Moderate,1,1,2
+29,prop_0029,"Eureka, California",Entire Home,173,4.95,154,Relaxed,1,1,2
+30,prop_0030,"Eureka, California",Entire Home,76,4.92,355,Limited,1,1,2
+31,prop_0031,San Francisco,Entire Home,4,5,257,Limited,0,1,2
+32,prop_0032,San Francisco,Entire Home,91,4.96,459,Flexible,1,1,2
+33,prop_0033,San Francisco,Entire Home,243,4.92,358,Moderate,1,1,2
+34,prop_0034,San Francisco,Entire Home,410,4.97,399,Moderate,1,1,2
+35,prop_0035,San Francisco,Entire Home,603,4.99,399,Moderate,1,1,2
+36,prop_0036,San Francisco,Entire Home,278,4.91,333,Limited,1,1,2
+37,prop_0037,San Francisco,Entire Home,662,4.94,397,Relaxed,1,1,2
+38,prop_0038,San Francisco,Entire Home,19,4.68,342,Moderate,1,1,2
+39,prop_0039,San Francisco,Entire Home,583,4.89,525,Moderate,1,1,2
+40,prop_0040,San Francisco,Entire Home,388,4.96,633,Strict,1,1,2
+41,prop_0041,"San Jose, California",Entire Home,19,5,308,Moderate,1,1,2
+42,prop_0042,"San Jose, California",Entire Home,38,5,326,Moderate,1,1,2
+43,prop_0043,"San Jose, California",Condo,15,5,484,Relaxed,0,1,2
+44,prop_0044,"San Jose, California",Cabin,862,4.99,363,Flexible,1,1,2
+45,prop_0045,"San Jose, California",Camper,102,4.98,370,Limited,1,1,2
+46,prop_0046,"San Jose, California",Entire Home,471,4.93,634,Limited,1,1,2
+47,prop_0047,"San Jose, California",Entire Home,7,5,301,Limited,0,1,2
+48,prop_0048,"San Jose, California",Entire Home,472,4.97,382,Moderate,1,1,2
+49,prop_0049,"San Jose, California",Entire Home,518,4.98,312,Moderate,1,1,2
+50,prop_0050,"San Jose, California",Entire Home,100,4.93,269,Strict,1,1,2
+51,prop_0051,"Monterey, California",Entire Home,435,4.89,386,Relaxed,1,1,2
+52,prop_0052,"Monterey, California",Entire Home,1274,4.91,388,Strict,1,1,2
+53,prop_0053,"Monterey, California",Entire Home,704,4.99,787,Moderate,1,1,2
+54,prop_0054,"Monterey, California",Room,91,4.98,571,Moderate,1,1,2
+55,prop_0055,"Monterey, California",Entire Home,155,4.98,523,Moderate,1,1,2
+56,prop_0056,"Monterey, California",Entire Home,1001,4.89,415,Moderate,1,1,2
+57,prop_0057,"Monterey, California",Room,378,4.99,495,Strict,1,1,2
+58,prop_0058,"Monterey, California",Room,36,4.64,304,Moderate,0,1,2
+59,prop_0059,"Monterey, California",Entire Home,0,0,507,Flexible,0,1,2
+60,prop_0060,"Monterey, California",Entire Home,567,4.84,483,Moderate,1,1,2
+61,prop_0061,Los Angeles,Entire Home,0,0,435,Limited,1,1,2
+62,prop_0062,Los Angeles,Entire Home,675,4.88,333,Relaxed,1,1,2
+63,prop_0063,Los Angeles,Entire Home,860,4.8,405,Relaxed,1,1,2
+64,prop_0064,Los Angeles,Entire Home,16,5,364,Moderate,1,1,2
+65,prop_0065,Los Angeles,Cottage,60,5,378,Flexible,1,1,2
+66,prop_0066,Los Angeles,Entire Home,487,4.93,308,Moderate,1,1,2
+67,prop_0067,Los Angeles,Room,71,4.87,178,Limited,0,1,2
+68,prop_0068,Los Angeles,Entire Home,100,4.9,322,Relaxed,1,1,2
+69,prop_0069,Los Angeles,Entire Home,340,4.94,308,Moderate,1,1,2
+70,prop_0070,Los Angeles,Entire Home,113,4.88,514,Flexible,1,1,2
+71,prop_0071,San Diego,Entire Home,319,4.94,348,Flexible,1,1,2
+72,prop_0072,San Diego,Entire Home,227,4.98,274,Relaxed,1,1,2
+73,prop_0073,San Diego,Entire Home,12,5,367,Moderate,1,1,2
+74,prop_0074,San Diego,Entire Home,160,4.98,259,Limited,1,1,2
+75,prop_0075,San Diego,Entire Home,523,4.95,151,Relaxed,1,1,2
+76,prop_0076,San Diego,Entire Home,905,4.91,325,Moderate,1,1,2
+77,prop_0077,San Diego,Entire Home,108,4.95,337,Flexible,1,1,2
+78,prop_0078,San Diego,Entire Home,660,4.96,431,Flexible,1,1,2
+79,prop_0079,San Diego,Entire Home,99,4.99,294,Limited,1,1,2
+80,prop_0080,San Diego,Entire Home,93,5,285,Strict,1,1,2
+81,prop_0081,"Santa Barbara, California",Entire Home,209,4.85,414,Relaxed,1,1,2
+82,prop_0082,"Santa Barbara, California",Room,219,4.98,422,Moderate,1,1,2
+83,prop_0083,"Santa Barbara, California",Room,133,4.95,614,Flexible,1,1,2
+84,prop_0084,"Santa Barbara, California",Entire Home,47,4.89,359,Strict,1,1,2
+85,prop_0085,"Santa Barbara, California",Entire Home,961,4.77,220,Limited,0,1,2
+86,prop_0086,"Santa Barbara, California",Entire Home,402,4.99,370,Flexible,1,1,2
+87,prop_0087,"Santa Barbara, California",Entire Home,98,4.91,900,Flexible,1,1,2
+88,prop_0088,"Santa Barbara, California",Entire Home,4,4.75,494,Relaxed,0,1,2
+89,prop_0089,"Santa Barbara, California",Entire Home,325,4.94,620,Moderate,1,1,2
+90,prop_0090,"Santa Barbara, California",Entire Home,253,4.98,322,Moderate,1,1,2
+91,prop_0091,"Palm Springs, California",Room,20,5,429,Limited,1,1,2
+92,prop_0092,"Palm Springs, California",Condo,7,5,354,Flexible,0,1,2
+93,prop_0093,"Palm Springs, California",Entire Home,74,4.89,620,Strict,1,1,2
+94,prop_0094,"Palm Springs, California",Entire Home,338,4.96,428,Moderate,1,1,2
+95,prop_0095,"Palm Springs, California",Room,25,4.96,285,Limited,1,1,2
+96,prop_0096,"Palm Springs, California",Entire Home,336,4.99,640,Flexible,1,1,2
+97,prop_0097,"Palm Springs, California",Entire Home,228,4.89,415,Limited,1,1,2
+98,prop_0098,"Palm Springs, California",Entire Home,93,4.98,550,Limited,1,1,2
+99,prop_0099,"Palm Springs, California",Entire Home,217,4.91,509,Strict,1,1,2
+100,prop_0100,"Palm Springs, California",Entire Home,871,4.83,248,Flexible,0,1,2
